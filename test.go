@@ -1,7 +1,7 @@
-package test
-import "imt"
+package main 
+
+import "fmt" 
 
 func main() {
-println("oie")
-
+    fmt.Println("oie")
 }
